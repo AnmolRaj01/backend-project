@@ -8,10 +8,15 @@
     "chai"
   ],
   "license": "ISC",
-  "author": "\"Anmol Raj\"",
-  "type": "commonjs",
-  "main": "index.js",
+  "author": "Anmol Raj",
+  "type": "module",
+  "main": "src/index.js",
   "scripts": {
+     
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
