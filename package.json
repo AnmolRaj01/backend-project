@@ -1,0 +1,17 @@
+{
+  "name": "chai-backend-major-project",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "\"Anmol Raj\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
