@@ -1,0 +1,1 @@
+export const DB_NAME = "videotube"; //writing db name in a variable so that we can use it in other files as well.
