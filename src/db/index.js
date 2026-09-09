@@ -18,4 +18,4 @@ const connectDB= async()=> {
 }
 
 
-export default connectDB;
+export default connectDB;    // async function returns a promise, so we can use .then when calling connectDB() in index.js
