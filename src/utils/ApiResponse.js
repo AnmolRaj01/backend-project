@@ -4,5 +4,10 @@ class ApiResponse{
         this.message = message;
         this.data = data;
         this.success = statusCode  ;
+        
     }
 }
+
+
+export {ApiResponse}
+ 

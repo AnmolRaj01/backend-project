@@ -42,5 +42,5 @@ const videoSchema = new Schema({
 
 },{timestamps:true})
 
-videoSchema.plugin
+videoS chema.plugin
 export const Video = mongoose.model("Video",videoScheema)
